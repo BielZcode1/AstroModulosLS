@@ -14,6 +14,7 @@ arquivos=(
     "remsinc.sh"
     "sincronizar.sh"
     "verificador.py"
+    "limpeza.sh"
 )
 
 # Remover os arquivos
