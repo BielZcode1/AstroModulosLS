@@ -11,7 +11,7 @@ wget -O astroremove.sh "https://raw.githubusercontent.com/BielZcode1/AstroModulo
 wget -O delete.py "https://raw.githubusercontent.com/BielZcode1/AstroModulosLS/refs/heads/main/delete.sh"
 wget -O astrodata.sh "https://raw.githubusercontent.com/BielZcode1/AstroModulosLS/refs/heads/main/astrodata.sh"
 wget -O sincronizar.py "https://raw.githubusercontent.com/BielZcode1/AstroModulosLS/refs/heads/main/sincronizar.sh"
-wget -O limpeza.py "https://raw.githubusercontent.com/BielZcode1/AstroModulosLS/refs/heads/main/limpeza.sh"
+wget -O limpeza.sh "https://raw.githubusercontent.com/BielZcode1/AstroModulosLS/refs/heads/main/limpeza.sh"
 chmod 777 astrocreate.sh add.sh remsinc.sh addsinc.sh rem.sh astroteste.sh addteste.sh astroremove.sh delete.py astrodata.sh sincronizar.py limpeza.sh
 apt install dos2unix
 dos2unix rem.sh
